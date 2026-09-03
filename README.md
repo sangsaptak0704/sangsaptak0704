@@ -281,14 +281,6 @@ Personal portfolio showcasing projects, skills and development work.
 
 </div>
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%">
-
-</div>
-
 # 📌 GitHub Highlights
 
 <div align="center">
