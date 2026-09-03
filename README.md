@@ -243,6 +243,26 @@ Personal portfolio showcasing projects, skills and development work.
 
 ---
 
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+---
+
 # 🔥 Contribution Streak
 
 <div align="center">
