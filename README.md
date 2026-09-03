@@ -219,28 +219,15 @@ Personal portfolio showcasing projects, skills and development work.
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/sangsaptak0704">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sangsaptak0704&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=12" alt="Sangsaptak's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/sangsaptak0704">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangsaptak0704&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=12" alt="Top Languages"/>
-</a>
+<img src="./assets/github-stats.svg" alt="GitHub Statistics" width="100%">
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sangsaptak0704&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak"/>
-
-</div>
-
 
 ---
 
@@ -248,10 +235,19 @@ Personal portfolio showcasing projects, skills and development work.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangsaptak0704&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="GitHub Activity Graph"/>
+<img src="./assets/activity.svg" alt="Contribution Activity" width="100%">
 
 </div>
 
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="./assets/streak.svg" alt="Contribution Streak" width="100%">
+
+</div>
 
 ---
 
@@ -259,7 +255,17 @@ Personal portfolio showcasing projects, skills and development work.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sangsaptak0704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
+<img src="./assets/trophies.svg" alt="GitHub Trophies" width="100%">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%">
 
 </div>
 
