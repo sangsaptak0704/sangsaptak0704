@@ -1,39 +1,415 @@
-<h1 align="center">Hi 👋, I'm Sangsaptak Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- ========================================================= -->
+<!--                    SANGSAPTAK DAS                         -->
+<!--                 GITHUB PROFILE README                     -->
+<!-- ========================================================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangsaptak0704&label=Profile%20views&color=0e75b6&style=flat" alt="sangsaptak0704" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangsaptak0704" alt="sangsaptak0704" /></a> </p>
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=SANGSAPTAK%20DAS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on [KriyaSense-AI](https://github.com/sangsaptak0704)
+<br>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning & Full-Stack Development**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI%2FML+Developer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript;Building+Real-World+Intelligent+Solutions+%F0%9F%9A%80;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG"/>
 
-- 👯 I’m looking to collaborate on [AI/ML & Full-Stack Projects](https://github.com/sangsaptak0704)
+<br><br>
 
-- 🤝 I’m looking for help with [Advanced AI/ML & Full-Stack Development](https://github.com/sangsaptak0704)
+<a href="https://github.com/sangsaptak0704">
+<img src="https://komarev.com/ghpvc/?username=sangsaptak0704&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [https://sansaptak-web.vercel.app/](https://sansaptak-web.vercel.app/)
+<a href="https://github.com/sangsaptak0704?tab=followers">
+<img src="https://img.shields.io/github/followers/sangsaptak0704?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers"/>
+</a>
 
-- 💬 Ask me about **C,Python, Java, AI/ML,Django, Git & GitHub**
+<a href="https://github.com/sangsaptak0704?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-06b6d4?style=for-the-badge" alt="Repositories"/>
+</a>
 
-- 📫 How to reach me **sangsaptakdas55@gmail.com**
+</div>
 
-- ⚡ Fun fact **🤖 Fun fact: I teach machines to learn, while I'm still learning how to debug my own code. 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sangsaptak-das-5320b42b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sangsaptak-das-5320b42b8/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sangsaptakdas07?sfnsn=wiwspwa&mibextid=rubz1f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sangsaptakdas07?sfnsn=wiwspwa&mibextid=rubz1f" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dassangsaptak?igsi=mwdndmfwdmz4exd4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dassangsaptak?igsi=mwdndmfwdmz4exd4mg==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sangsaptakdas55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sangsaptakdas55/" height="30" width="40" /></a>
+<div align="center">
+
+## 👋 Hello, I'm Sangsaptak Das
+
+### 🤖 AI/ML Developer • 💻 Full-Stack Developer • 🚀 Problem Solver
+
+</div>
+
+<p align="center">
+I build intelligent, practical and user-focused applications by combining
+<strong>Artificial Intelligence, Machine Learning and modern web technologies.</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+🎓 Computer Science & Engineering (AI/ML) Student &nbsp;•&nbsp;
+🇮🇳 India &nbsp;•&nbsp;
+💡 Always curious, always building
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangsaptak0704&show_icons=true&locale=en&layout=compact" alt="sangsaptak0704" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangsaptak0704&show_icons=true&locale=en" alt="sangsaptak0704" /></p>
+# 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangsaptak0704&" alt="sangsaptak0704" /></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I Do
+
+- 🤖 Build AI & Machine Learning applications
+- 🌐 Develop full-stack web applications
+- 🐍 Work with Python for intelligent solutions
+- 🧩 Solve programming & algorithmic problems
+- 🔗 Build and integrate APIs
+- ☁️ Explore deployment & cloud technologies
+- 🛠️ Turn ideas into working products
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+- 🧠 Artificial Intelligence
+- 🤖 Machine Learning
+- 🔥 Deep Learning
+- 🌐 Full-Stack Development
+- 👁️ Computer Vision
+- 📊 Data & Analytics
+- 🚀 Real-world project development
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔭 What I'm Working On
+
+<div align="center">
+
+### 🤖 KriyaSense-AI
+
+**An AI-powered project focused on intelligent activity recognition and real-world automation.**
+
+<a href="https://github.com/sangsaptak0704">
+<img src="https://img.shields.io/badge/View%20My%20Projects-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css&theme=dark" />
+
+<br><br>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs&theme=dark" />
+
+<br><br>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
+
+<br><br>
+
+### ☁️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,linux,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 KriyaSense-AI
+
+AI/ML project focused on intelligent activity recognition and real-world applications.
+
+**Focus:** AI • ML • Computer Vision
+
+<a href="https://github.com/sangsaptak0704">
+<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌍 AtmosBridge
+
+Technology-driven project exploring intelligent solutions around environmental and atmospheric data.
+
+**Focus:** AI • Data • Web
+
+<a href="https://github.com/sangsaptak0704">
+<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 Algorithm Visualizer
+
+Interactive project designed to make algorithms easier to understand through visualization.
+
+**Focus:** Algorithms • Visualization • Programming
+
+<a href="https://github.com/sangsaptak0704">
+<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 My Portfolio
+
+Personal portfolio showcasing projects, skills and development work.
+
+**Focus:** Web Development • UI • Portfolio
+
+<a href="https://sansaptak-web.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/sangsaptak0704">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangsaptak0704&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/sangsaptak0704">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangsaptak0704&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=12" alt="Top Languages"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/sangsaptak0704">
+<img src="https://github-readme-streak-stats.demolab.com?user=sangsaptak0704&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak"/>
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/sangsaptak0704">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangsaptak0704&bg_color=0d1117&color=38bdf8&line=2563eb&point=06b6d4&area=true&hide_border=true&radius=12" width="100%" alt="GitHub Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Commit Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sangsaptak0704&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=Commit%20%26%20Contribution%20Overview" alt="Commit Activity"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sangsaptak0704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 📌 GitHub Highlights
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 📦 Repositories
+
+<img src="https://img.shields.io/badge/Explore%20Repos-181717?style=for-the-badge&logo=github" />
+
+</td>
+
+<td align="center">
+
+### ⭐ Stars
+
+<img src="https://img.shields.io/github/stars/sangsaptak0704?style=for-the-badge&logo=github&color=f59e0b" />
+
+</td>
+
+<td align="center">
+
+### 👥 Followers
+
+<img src="https://img.shields.io/github/followers/sangsaptak0704?style=for-the-badge&logo=github&color=2563eb" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+> ⚠️ The snake animation requires a GitHub Actions workflow. We will configure this separately so it works correctly.
+
+---
+
+# 🧩 What I Enjoy Building
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | 🌐 Full-Stack Applications |
+| :---: | :---: |
+| Machine Learning | Frontend Development |
+| Deep Learning | Backend Development |
+| Computer Vision | REST APIs |
+| Intelligent Automation | Database Systems |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+`Artificial Intelligence` • `Machine Learning` • `Deep Learning`
+
+`Computer Vision` • `Full-Stack Development` • `Cloud Technologies`
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+> 🤖 **I teach machines to learn, while I'm still learning how to debug my own code.** 😄
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sangsaptakdas55@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sangsaptak-das-5320b42b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/dassangsaptak/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/sangsaptakdas55/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://github.com/sangsaptak0704">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 💭 Developer Mindset
+
+<div align="center">
+
+### **Build. Learn. Break. Fix. Repeat. 🚀**
+
+*"The best way to predict the future is to create it."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
+
+### ⭐ Thanks for visiting my profile!
+
+**If you find my projects interesting, consider giving them a ⭐**
+
+</div>
