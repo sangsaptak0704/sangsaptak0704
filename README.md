@@ -221,11 +221,13 @@ Personal portfolio showcasing projects, skills and development work.
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" alt="GitHub Statistics" width="100%">
+<img src="./assets/github-stats.svg" alt="GitHub Analytics" width="100%">
 
 </div>
 
@@ -251,15 +253,13 @@ Personal portfolio showcasing projects, skills and development work.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🧑‍💻 Top Languages
 
 <div align="center">
 
-<img src="./assets/trophies.svg" alt="GitHub Trophies" width="100%">
+<img src="./assets/top-languages.svg" alt="Top Languages" width="100%">
 
 </div>
-
----
 
 # 🐍 Contribution Snake
 
