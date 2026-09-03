@@ -224,11 +224,11 @@ Personal portfolio showcasing projects, skills and development work.
 <div align="center">
 
 <a href="https://github.com/sangsaptak0704">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangsaptak0704&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sangsaptak0704&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=12" alt="Sangsaptak's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/sangsaptak0704">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangsaptak0704&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=12" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangsaptak0704&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=12" alt="Top Languages"/>
 </a>
 
 </div>
@@ -237,11 +237,10 @@ Personal portfolio showcasing projects, skills and development work.
 
 <div align="center">
 
-<a href="https://github.com/sangsaptak0704">
-<img src="https://github-readme-streak-stats.demolab.com?user=sangsaptak0704&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=sangsaptak0704&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak"/>
 
 </div>
+
 
 ---
 
@@ -249,21 +248,10 @@ Personal portfolio showcasing projects, skills and development work.
 
 <div align="center">
 
-<a href="https://github.com/sangsaptak0704">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangsaptak0704&bg_color=0d1117&color=38bdf8&line=2563eb&point=06b6d4&area=true&hide_border=true&radius=12" width="100%" alt="GitHub Activity Graph"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangsaptak0704&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
----
-
-# 💻 Commit Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sangsaptak0704&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=Commit%20%26%20Contribution%20Overview" alt="Commit Activity"/>
-
-</div>
 
 ---
 
@@ -271,11 +259,9 @@ Personal portfolio showcasing projects, skills and development work.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sangsaptak0704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sangsaptak0704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
-
----
 
 # 📌 GitHub Highlights
 
@@ -312,18 +298,6 @@ Personal portfolio showcasing projects, skills and development work.
 </table>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
-> ⚠️ The snake animation requires a GitHub Actions workflow. We will configure this separately so it works correctly.
 
 ---
 
