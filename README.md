@@ -1,407 +1,736 @@
-<!-- ========================================================= -->
-<!--                    SANGSAPTAK DAS                         -->
-<!--                 GITHUB PROFILE README                     -->
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            TOP BANNER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              HEADER                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=SANGSAPTAK%20DAS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+  <h1>
+    👋 Hi, I'm Sangsaptak Das
+  </h1>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI%2FML+Developer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript;Building+Real-World+Intelligent+Solutions+%F0%9F%9A%80;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG"/>
-
-<br><br>
-
-<a href="https://github.com/sangsaptak0704">
-<img src="https://komarev.com/ghpvc/?username=sangsaptak0704&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/sangsaptak0704?tab=followers">
-<img src="https://img.shields.io/github/followers/sangsaptak0704?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers"/>
-</a>
-
-<a href="https://github.com/sangsaptak0704?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-06b6d4?style=for-the-badge" alt="Repositories"/>
-</a>
+  <p>
+    <b>AI/ML Developer • Full-Stack Developer • Computer Science Student</b>
+  </p>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         TYPING ANIMATION                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 👋 Hello, I'm Sangsaptak Das
-
-### 🤖 AI/ML Developer • 💻 Full-Stack Developer • 🚀 Problem Solver
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Sangsaptak+Das+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Computer+Science+(AIML)+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%8C%90;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Learning+by+Building+%F0%9F%8F%97%EF%B8%8F"
+      alt="Typing SVG"
+    />
+  </a>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                     PROFILE VIEWS + FOLLOWERS                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <img
+    src="https://komarev.com/ghpvc/?username=sangsaptak0704&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+
+  &nbsp;
+
+  <img
+    src="https://img.shields.io/github/followers/sangsaptak0704?style=for-the-badge&color=7aa2f7&label=FOLLOWERS"
+    alt="GitHub Followers"
+  />
+
+  &nbsp;
+
+  <img
+    src="https://img.shields.io/github/stars/sangsaptak0704?style=for-the-badge&color=bb9af7&label=STARS"
+    alt="GitHub Stars"
+  />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        3D CONTRIBUTION MAP                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/main/profile-3d-contrib/profile-night-green.svg"
+    width="100%"
+    alt="3D Contribution Map"
+  />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"
+  width="100%"
+/>
+
+<h2 align="left">
+
+  <img
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png"
+    width="40"
+    align="center"
+  />
+
+  &nbsp;<b>About Me</b>
+
+</h2>
+
+I'm Sangsaptak Das, a Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy learning by building real-world applications and experimenting with AI, machine learning, backend systems, and modern web technologies.
+
+My goal is to transform ideas into useful, practical, and deployable software while continuously improving my problem-solving and development skills.
+
+<br/>
+
+<table align="center">
+
+<tr>
+
+<td valign="top" width="50%">
+
+### 🎓 Education
+
+&nbsp;&nbsp;B.Tech, Computer Science & Engineering  
+&nbsp;&nbsp;Artificial Intelligence & Machine Learning
+
+### 📍 Location
+
+&nbsp;&nbsp;India
+
+### ✉️ Contact
+
+&nbsp;&nbsp;[sangsaptakdas55@gmail.com](mailto:sangsaptakdas55@gmail.com)
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧭 What I Do
+
+&nbsp;&nbsp;🤖 Artificial Intelligence & Machine Learning
+
+&nbsp;&nbsp;🐍 Python Development
+
+&nbsp;&nbsp;🌐 Full-Stack Development
+
+&nbsp;&nbsp;⚙️ Backend Development
+
+&nbsp;&nbsp;📊 Data & Algorithm Visualization
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       CURRENTLY WORKING ON                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+#### 🚀 Currently Working On
+
+- 🤖 **KriyaSense** — an offline AI assistant for validating experiment protocols
+- 🎥 **OpenMeet** — a modern web-based video meeting platform
+- 📊 **Algorithm Visualizer** — interactive visualization of algorithms
+- 🌐 **Personal Portfolio** — continuously improving my developer portfolio
+- 🧠 Strengthening **AI/ML, DSA and Full-Stack Development**
+- 🚀 Building and deploying real-world software projects
+
+#### 💡 Interests
+
+<p align="left">
+
+  <img
+    src="https://img.shields.io/badge/Artificial%20Intelligence-16213e?style=for-the-badge&color=7aa2f7"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Machine%20Learning-16213e?style=for-the-badge&color=7aa2f7"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Deep%20Learning-16213e?style=for-the-badge&color=bb9af7"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Data%20Science-16213e?style=for-the-badge&color=bb9af7"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Full--Stack%20Development-16213e?style=for-the-badge&color=9ece6a"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Computer%20Vision-16213e?style=for-the-badge&color=9ece6a"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Algorithms%20%26%20DSA-16213e?style=for-the-badge&color=7aa2f7"
+  />
+
+</p>
+
+#### 🛠️ Where I'm Strongest
+
+| | |
+|---|---|
+| 🐍 **Python & AI/ML** | Machine learning, automation, data processing and backend development |
+| ☕ **Java** | Object-oriented programming, DSA and application development |
+| 🌐 **Web Development** | Frontend and backend development for real-world applications |
+| 🧠 **AI & Computer Vision** | Building intelligent systems and AI-powered applications |
+| 🗄️ **Databases** | Working with SQL and application data management |
+| 🔧 **Git & GitHub** | Version control, collaboration and project deployment |
+
+> *"I believe in learning by building 🏗️ — turning ideas into functional, real-world solutions."*
+
+#### 🎯 Outside of Code
+
+💻 Side Projects &nbsp;·&nbsp; 🤖 AI Experiments &nbsp;·&nbsp; 🎨 UI/UX &nbsp;·&nbsp; 🧠 Problem Solving &nbsp;·&nbsp; 🚀 Exploring New Technologies
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          QUICK CONTACT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <a href="mailto:sangsaptakdas55@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      height="35"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://www.linkedin.com/in/sangsaptak-das-5320b42b8/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="35"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://www.instagram.com/dassangsaptak/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      height="35"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://www.facebook.com/sangsaptakdas07">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      height="35"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://leetcode.com/u/sangsaptakdas55/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      height="35"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         TECHNOLOGY STACK                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"
+  width="100%"
+/>
+
+<h2 align="left">
+
+  ⚙️ &nbsp;<b>Technology Stack</b>
+
+</h2>
+
+<h3 align="left">
+
+  🗣️ &nbsp;<b>Languages</b>
+
+</h3>
 
 <p align="center">
-I build intelligent, practical and user-focused applications by combining
-<strong>Artificial Intelligence, Machine Learning and modern web technologies.</strong>
+
+  <img
+    src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css,kotlin&perline=9"
+  />
+
+</p>
+
+<h3 align="left">
+
+  🛠️ &nbsp;<b>Frameworks & Libraries</b>
+
+</h3>
+
+<p align="center">
+
+  <img
+    src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs,vite,tailwind,pytorch&perline=9"
+  />
+
 </p>
 
 <p align="center">
-🎓 Computer Science & Engineering (AI/ML) Student &nbsp;•&nbsp;
-🇮🇳 India &nbsp;•&nbsp;
-💡 Always curious, always building
+
+  <img
+    src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+  />
+
+  <img
+    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
+  />
+
 </p>
 
----
+<h3 align="left">
 
-# 🧠 About Me
+  🗄️ &nbsp;<b>Databases</b>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</h3>
 
-### 🚀 What I Do
+<p align="center">
 
-- 🤖 Build AI & Machine Learning applications
-- 🌐 Develop full-stack web applications
-- 🐍 Work with Python for intelligent solutions
-- 🧩 Solve programming & algorithmic problems
-- 🔗 Build and integrate APIs
-- ☁️ Explore deployment & cloud technologies
-- 🛠️ Turn ideas into working products
+  <img
+    src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&perline=9"
+  />
 
-</td>
+</p>
 
-<td width="50%" valign="top">
+<h3 align="left">
 
-### 🎯 Current Focus
+  ☁️ &nbsp;<b>Cloud & Development Tools</b>
 
-- 🧠 Artificial Intelligence
-- 🤖 Machine Learning
-- 🔥 Deep Learning
-- 🌐 Full-Stack Development
-- 👁️ Computer Vision
-- 📊 Data & Analytics
-- 🚀 Real-world project development
+</h3>
 
-</td>
-</tr>
-</table>
+<p align="center">
 
----
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vercel,netlify,firebase,figma,vscode&perline=9"
+  />
 
-# 🔭 What I'm Working On
+</p>
 
-<div align="center">
+<h3 align="left">
 
-### 🤖 KriyaSense-AI
+  🤖 &nbsp;<b>AI / Developer Tools</b>
 
-**An AI-powered project focused on intelligent activity recognition and real-world automation.**
+</h3>
 
-<a href="https://github.com/sangsaptak0704">
-<img src="https://img.shields.io/badge/View%20My%20Projects-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+<p align="center">
 
-</div>
+  <img
+    src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"
+  />
 
----
+  <img
+    src="https://img.shields.io/badge/AI%20Assisted%20Development-0891B2?style=for-the-badge"
+  />
 
-# 🛠️ Technology Stack
+  <img
+    src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge"
+  />
 
-<div align="center">
+</p>
 
-### 💻 Languages
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css&theme=dark" />
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         GITHUB STATISTICS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<br><br>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"
+  width="100%"
+/>
 
-### 🌐 Frontend
+<h2 align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
+  📊 &nbsp;<b>GitHub Statistics</b>
 
-<br><br>
+</h2>
 
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs&theme=dark" />
-
-<br><br>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
-
-<br><br>
-
-### ☁️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,linux,vscode&theme=dark" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      PROFILE SUMMARY CARDS                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🤖 KriyaSense-AI
-
-AI/ML project focused on intelligent activity recognition and real-world applications.
-
-**Focus:** AI • ML • Computer Vision
-
-<a href="https://github.com/sangsaptak0704">
-<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌍 AtmosBridge
-
-Technology-driven project exploring intelligent solutions around environmental and atmospheric data.
-
-**Focus:** AI • Data • Web
-
-<a href="https://github.com/sangsaptak0704">
-<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📊 Algorithm Visualizer
-
-Interactive project designed to make algorithms easier to understand through visualization.
-
-**Focus:** Algorithms • Visualization • Programming
-
-<a href="https://github.com/sangsaptak0704">
-<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 My Portfolio
-
-Personal portfolio showcasing projects, skills and development work.
-
-**Focus:** Web Development • UI • Portfolio
-
-<a href="https://sansaptak-web.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
+  <img
+    src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
+    alt="Profile Details"
+    width="100%"
+  />
 
 </div>
 
----
-
----
-
----
-
-# 📊 GitHub Analytics
+<br/>
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" alt="GitHub Analytics" width="100%">
+  <img
+    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    alt="Repositories Per Language"
+    width="49%"
+  />
+
+  <img
+    src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    alt="Most Commit Language"
+    width="49%"
+  />
 
 </div>
 
----
-
-# 📈 Contribution Activity
+<br/>
 
 <div align="center">
 
-<img src="./assets/activity.svg" alt="Contribution Activity" width="100%">
+  <img
+    src="./profile-summary-card-output/tokyonight/3-stats.svg"
+    alt="GitHub Stats"
+    width="49%"
+  />
+
+  <img
+    src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
+    alt="Productive Time"
+    width="49%"
+  />
 
 </div>
 
----
+<br/>
 
----
-
-# 🐍 Contribution Snake
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         GITHUB STATS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake-dark.svg">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=sangsaptak0704&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"
+    alt="GitHub Stats"
+  />
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg">
+  &nbsp;
 
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg">
-</picture>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangsaptak0704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8"
+    alt="Top Languages"
+  />
 
 </div>
----
 
-# 🔥 Contribution Streak
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         CONTRIBUTION STREAK                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="./assets/streak.svg" alt="Contribution Streak" width="100%">
+  <img
+    src="https://streak-stats.demolab.com/?user=sangsaptak0704&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=7aa2f7"
+    width="70%"
+    alt="GitHub Streak"
+  />
 
 </div>
 
----
+<br/>
 
-# 🧑‍💻 Top Languages
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              TROPHIES                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="left">
+
+  🏆 &nbsp;<b>GitHub Trophies</b>
+
+</h2>
 
 <div align="center">
 
-<img src="./assets/top-languages.svg" alt="Top Languages" width="100%">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sangsaptak0704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
+    alt="GitHub Trophies"
+  />
 
 </div>
 
-# 📌 GitHub Highlights
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         CONTRIBUTION SNAKE                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"
+  width="100%"
+/>
+
+<h2 align="left">
+
+  🐍 &nbsp;<b>Contribution Snake</b>
+
+</h2>
 
 <div align="center">
 
-<table>
-<tr>
+  <picture>
 
-<td align="center">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake-dark.svg"
+    />
 
-### 📦 Repositories
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg"
+    />
 
-<img src="https://img.shields.io/badge/Explore%20Repos-181717?style=for-the-badge&logo=github" />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg"
+    />
 
-</td>
-
-<td align="center">
-
-### ⭐ Stars
-
-<img src="https://img.shields.io/github/stars/sangsaptak0704?style=for-the-badge&logo=github&color=f59e0b" />
-
-</td>
-
-<td align="center">
-
-### 👥 Followers
-
-<img src="https://img.shields.io/github/followers/sangsaptak0704?style=for-the-badge&logo=github&color=2563eb" />
-
-</td>
-
-</tr>
-</table>
+  </picture>
 
 </div>
 
----
+<br/>
 
-# 🧩 What I Enjoy Building
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         FEATURED PROJECTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"
+  width="100%"
+/>
+
+<h2 align="left">
+
+  🚀 &nbsp;<b>Featured Projects</b>
+
+</h2>
 
 <div align="center">
 
-| 🤖 Artificial Intelligence | 🌐 Full-Stack Applications |
-| :---: | :---: |
-| Machine Learning | Frontend Development |
-| Deep Learning | Backend Development |
-| Computer Vision | REST APIs |
-| Intelligent Automation | Database Systems |
+  <a href="https://github.com/sangsaptak0704/KriyaSense">
+
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=sangsaptak0704&repo=KriyaSense&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5"
+      alt="KriyaSense"
+    />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/sangsaptak0704/Algorithm-Visualizer">
+
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=sangsaptak0704&repo=Algorithm-Visualizer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5"
+      alt="Algorithm Visualizer"
+    />
+
+  </a>
 
 </div>
 
----
-
-# 📚 Currently Learning
+<br/>
 
 <div align="center">
 
-`Artificial Intelligence` • `Machine Learning` • `Deep Learning`
+  <a href="https://github.com/sangsaptak0704/OpenMeet">
 
-`Computer Vision` • `Full-Stack Development` • `Cloud Technologies`
+    <img
+      src="https://img.shields.io/badge/OpenMeet-Video%20Meeting%20Platform-7AA2F7?style=for-the-badge&logo=googlemeet&logoColor=white"
+      alt="OpenMeet"
+    />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/sangsaptak0704/my-portfolio">
+
+    <img
+      src="https://img.shields.io/badge/My%20Portfolio-Web%20Portfolio-BB9AF7?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="My Portfolio"
+    />
+
+  </a>
 
 </div>
 
----
+<br/>
 
-# ⚡ Fun Fact
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           CONNECT WITH ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"
+  width="100%"
+/>
+
+<h2 align="left">
+
+  👋 &nbsp;<b>Connect With Me</b>
+
+</h2>
 
 <div align="center">
 
-> 🤖 **I teach machines to learn, while I'm still learning how to debug my own code.** 😄
+  <a href="mailto:sangsaptakdas55@gmail.com">
+
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://www.linkedin.com/in/sangsaptak-das-5320b42b8/">
+
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://www.instagram.com/dassangsaptak/">
+
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://www.facebook.com/sangsaptakdas07">
+
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://leetcode.com/u/sangsaptakdas55/">
+
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/sangsaptak0704">
+
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+
+  </a>
 
 </div>
 
----
+<br/>
 
-# 🌐 Connect With Me
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                               FOOTER                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="mailto:sangsaptakdas55@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img
+    src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif"
+    width="80"
+    height="80"
+  />
 
-<a href="https://www.linkedin.com/in/sangsaptak-das-5320b42b8/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <br/>
 
-<a href="https://www.instagram.com/dassangsaptak/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+  <h2>
+    <b>Thanks for exploring my profile! 🌟</b>
+  </h2>
 
-<a href="https://leetcode.com/u/sangsaptakdas55/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+  <br/>
 
-<a href="https://github.com/sangsaptak0704">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <p align="center">
 
-</div>
+    <i>
+      "I teach machines to learn, while I'm still learning how to debug my own code." 🤖
+    </i>
 
----
+  </p>
 
-# 💭 Developer Mindset
-
-<div align="center">
-
-### **Build. Learn. Break. Fix. Repeat. 🚀**
-
-*"The best way to predict the future is to create it."*
+  <br/>
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
-
-### ⭐ Thanks for visiting my profile!
-
-**If you find my projects interesting, consider giving them a ⭐**
-
-</div>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
+  width="100%"
+/>
