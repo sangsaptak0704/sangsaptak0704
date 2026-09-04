@@ -44,7 +44,7 @@
           font-size="30"
           font-family="Arial"
           font-weight="bold">
-          1
+          2
     </text>
     
     <rect x="320" y="85"
@@ -94,6 +94,6 @@
           font-size="30"
           font-family="Arial"
           font-weight="bold">
-          32
+          44
     </text>
     </svg>
