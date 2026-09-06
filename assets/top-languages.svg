@@ -37,7 +37,7 @@
           fill="#1e293b"/>
 
     <rect x="180" y="81"
-          width="296.0"
+          width="295.4"
           height="13"
           rx="6"
           fill="url(#blue)"/>
@@ -47,7 +47,7 @@
           fill="#94a3b8"
           font-size="13"
           font-family="Arial">
-          52.9%
+          52.7%
     </text>
     
     <text x="50"
@@ -65,7 +65,7 @@
           fill="#1e293b"/>
 
     <rect x="180" y="119"
-          width="108.3"
+          width="107.6"
           height="13"
           rx="6"
           fill="url(#blue)"/>
@@ -75,7 +75,7 @@
           fill="#94a3b8"
           font-size="13"
           font-family="Arial">
-          19.3%
+          19.2%
     </text>
     
     <text x="50"
@@ -93,7 +93,7 @@
           fill="#1e293b"/>
 
     <rect x="180" y="157"
-          width="93.9"
+          width="96.2"
           height="13"
           rx="6"
           fill="url(#blue)"/>
@@ -103,7 +103,7 @@
           fill="#94a3b8"
           font-size="13"
           font-family="Arial">
-          16.8%
+          17.2%
     </text>
     
     <text x="50"
@@ -121,7 +121,7 @@
           fill="#1e293b"/>
 
     <rect x="180" y="195"
-          width="24.0"
+          width="23.6"
           height="13"
           rx="6"
           fill="url(#blue)"/>
@@ -131,7 +131,7 @@
           fill="#94a3b8"
           font-size="13"
           font-family="Arial">
-          4.3%
+          4.2%
     </text>
     
     <text x="50"
@@ -149,7 +149,7 @@
           fill="#1e293b"/>
 
     <rect x="180" y="233"
-          width="23.4"
+          width="23.1"
           height="13"
           rx="6"
           fill="url(#blue)"/>
@@ -159,7 +159,7 @@
           fill="#94a3b8"
           font-size="13"
           font-family="Arial">
-          4.2%
+          4.1%
     </text>
     
     <text x="50"
@@ -177,7 +177,7 @@
           fill="#1e293b"/>
 
     <rect x="180" y="271"
-          width="14.3"
+          width="14.1"
           height="13"
           rx="6"
           fill="url(#blue)"/>
@@ -187,6 +187,6 @@
           fill="#94a3b8"
           font-size="13"
           font-family="Arial">
-          2.6%
+          2.5%
     </text>
     </svg>
