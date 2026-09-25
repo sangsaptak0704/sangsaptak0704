@@ -393,15 +393,21 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 <!--                              TROPHIES                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <sub>Milestones from my open-source activity and development journey</sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://trophy.ryglcloud.net/?username=sangsaptak0704&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1&margin-w=8"
-      width="100%"
-      alt="Sangsaptak Das GitHub Trophies"
+      src="https://trophy.ryglcloud.net/?username=sangsaptak0704&theme=algolia&no-frame=true&no-bg=false&column=5&row=1&margin-w=12&title=Experience,Commits,Stars,Followers,Repositories"
+      width="85%"
+      alt="Sangsaptak Das GitHub Achievements"
     />
   </a>
-</div>
+</p>
 
 <br/>
 
