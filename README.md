@@ -274,10 +274,14 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 
 <h3 align="left">🤖 AI / Developer Tools</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">&nbsp;<img src="https://img.shields.io/badge/AI%20Assisted%20Development-0891B2?style=for-the-badge" alt="AI Assisted Development">&nbsp;<img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge" alt="Prompt Engineering">
-</p>
+<h3 align="left">🤖 AI / Developer Tools</h3>
 
+<p align="left">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,chatgpt,codex,cursor,githubcopilot,deepseek&theme=dark&perline=7"
+    alt="Claude, Gemini, ChatGPT, Codex, Cursor, GitHub Copilot and DeepSeek"
+  />
+</p>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
