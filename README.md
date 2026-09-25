@@ -393,9 +393,9 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 <!--                              TROPHIES                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<h2 align="left">🏆 GitHub Achievements</h2>
 
-<p align="center">
+<p align="left">
   <sub>Milestones from my open-source activity and development journey</sub>
 </p>
 
