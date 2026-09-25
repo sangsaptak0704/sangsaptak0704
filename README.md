@@ -156,36 +156,16 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 
 #### 💡 Interests
 
-<p align="left">
+<h3 align="center">💡 Interests</h3>
 
-  <img
-    src="https://img.shields.io/badge/Artificial%20Intelligence-16213e?style=for-the-badge&color=7aa2f7"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Machine%20Learning-16213e?style=for-the-badge&color=7aa2f7"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Deep%20Learning-16213e?style=for-the-badge&color=bb9af7"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Data%20Science-16213e?style=for-the-badge&color=bb9af7"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Full--Stack%20Development-16213e?style=for-the-badge&color=9ece6a"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Computer%20Vision-16213e?style=for-the-badge&color=9ece6a"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Algorithms%20%26%20DSA-16213e?style=for-the-badge&color=7aa2f7"
-  />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7AA2F7?style=flat-square" alt="Artificial Intelligence">&nbsp;
+  <img src="https://img.shields.io/badge/Machine%20Learning-7AA2F7?style=flat-square" alt="Machine Learning">&nbsp;
+  <img src="https://img.shields.io/badge/Deep%20Learning-BB9AF7?style=flat-square" alt="Deep Learning">&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Science-BB9AF7?style=flat-square" alt="Data Science">&nbsp;
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-9ECE6A?style=flat-square" alt="Full-Stack Development">&nbsp;
+  <img src="https://img.shields.io/badge/Computer%20Vision-9ECE6A?style=flat-square" alt="Computer Vision">&nbsp;
+  <img src="https://img.shields.io/badge/Algorithms%20%26%20DSA-7AA2F7?style=flat-square" alt="Algorithms and DSA">
 </p>
 
 #### 🛠️ Where I'm Strongest
