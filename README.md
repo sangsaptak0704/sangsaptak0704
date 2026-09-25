@@ -242,7 +242,7 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">&nbsp;<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">&nbsp;<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
 </p>
 
@@ -274,7 +274,7 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 
 <h3 align="left">🤖 AI / Developer Tools</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">&nbsp;<img src="https://img.shields.io/badge/AI%20Assisted%20Development-0891B2?style=for-the-badge" alt="AI Assisted Development">&nbsp;<img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge" alt="Prompt Engineering">
 </p>
 
