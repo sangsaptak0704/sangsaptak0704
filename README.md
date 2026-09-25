@@ -351,23 +351,25 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 <!--                         GITHUB STATS                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<h2 align="left">📈 GitHub Activity</h2>
 
+<p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=sangsaptak0704&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"
-    alt="GitHub Stats"
+    src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/main/assets/activity.svg"
+    width="100%"
+    alt="Monthly GitHub Contribution Activity Graph"
   />
+</p>
 
-  &nbsp;
+<h2 align="left">💻 Top Languages</h2>
 
+<p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangsaptak0704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8"
-    alt="Top Languages"
+    src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/main/assets/top-languages.svg"
+    width="100%"
+    alt="Top Programming Languages Bar Graph"
   />
-
-</div>
+</p>
 
 <br/>
 
