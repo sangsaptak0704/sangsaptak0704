@@ -274,11 +274,9 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 
 <h3 align="left">🤖 AI / Developer Tools</h3>
 
-<h3 align="left">🤖 AI / Developer Tools</h3>
-
-<p align="left">
+<p align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,chatgpt,codex,cursor,githubcopilot,deepseek&theme=dark&perline=7"
+    src="https://skill-icons-snowy.vercel.app/api/icons?i=claude,gemini,chatgpt,codex,cursorai,githubcopilot,deepseek&perline=7&t=dark"
     alt="Claude, Gemini, ChatGPT, Codex, Cursor, GitHub Copilot and DeepSeek"
   />
 </p>
