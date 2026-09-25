@@ -274,11 +274,8 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 
 <h3 align="left">🤖 AI / Developer Tools</h3>
 
-<p align="center">
-  <img
-    src="https://skill-icons-snowy.vercel.app/api/icons?i=claude,gemini,chatgpt,codex,cursorai,githubcopilot,deepseek&perline=7&t=dark"
-    alt="Claude, Gemini, ChatGPT, Codex, Cursor, GitHub Copilot and DeepSeek"
-  />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-dark.svg" width="48" height="48" alt="Claude" title="Claude">&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/gemini-dark.svg" width="48" height="48" alt="Gemini" title="Gemini">&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/chatgpt-dark.svg" width="48" height="48" alt="ChatGPT" title="ChatGPT">&nbsp;<img src="https://raw.githubusercontent.com/kirito666coder/Skill-icons/main/public/icons/codex.svg" width="48" height="48" alt="Codex" title="Codex">&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/cursor-dark.svg" width="48" height="48" alt="Cursor" title="Cursor">&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/githubcopilot-dark.svg" width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot">&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/deepseek-dark.svg" width="48" height="48" alt="DeepSeek" title="DeepSeek">
 </p>
 
 <br/>
