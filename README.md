@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="./github-profile-banner.png"
+    src="./github-profile-banner.png.png"
     alt="Sangsaptak Das — AI/ML and Full-Stack Developer"
     width="100%"
   />
