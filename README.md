@@ -156,7 +156,6 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 
 #### 💡 Interests
 
-<h3 align="center">💡 Interests</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-7AA2F7?style=flat-square" alt="Artificial Intelligence">&nbsp;
