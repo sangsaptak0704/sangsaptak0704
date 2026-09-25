@@ -47,28 +47,11 @@
 <!--                     PROFILE VIEWS + FOLLOWERS                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=sangsaptak0704&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-
-  &nbsp;
-
-  <img
-    src="https://img.shields.io/github/followers/sangsaptak0704?style=for-the-badge&color=7aa2f7&label=FOLLOWERS"
-    alt="GitHub Followers"
-  />
-
-  &nbsp;
-
-  <img
-    src="https://img.shields.io/github/stars/sangsaptak0704?style=for-the-badge&color=bb9af7&label=STARS"
-    alt="GitHub Stars"
-  />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sangsaptak0704&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views">&nbsp;
+  <img src="https://img.shields.io/github/followers/sangsaptak0704?style=for-the-badge&color=7aa2f7&label=FOLLOWERS" alt="Followers">&nbsp;
+  <img src="https://img.shields.io/github/stars/sangsaptak0704?style=for-the-badge&color=bb9af7&label=STARS" alt="Stars">
+</p>
 
 <br/>
 
