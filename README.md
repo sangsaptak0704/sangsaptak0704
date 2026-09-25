@@ -188,52 +188,14 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 <!--                          QUICK CONTACT                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-  <a href="mailto:sangsaptakdas55@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      height="35"
-    />
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.linkedin.com/in/sangsaptak-das-5320b42b8/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="35"
-    />
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.instagram.com/dassangsaptak/">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      height="35"
-    />
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.facebook.com/sangsaptakdas07">
-    <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      height="35"
-    />
-  </a>
-
-  &nbsp;
-
-  <a href="https://leetcode.com/u/sangsaptakdas55/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-      height="35"
-    />
-  </a>
-
-</div>
+<!-- QUICK CONTACT -->
+<p align="center">
+  <a href="mailto:sangsaptakdas55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sangsaptak-das-5320b42b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.instagram.com/dassangsaptak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"></a>&nbsp;
+  <a href="https://www.facebook.com/sangsaptakdas07"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" alt="Facebook"></a>&nbsp;
+  <a href="https://leetcode.com/u/sangsaptakdas55/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28" alt="LeetCode"></a>
+</p>
 
 <br/>
 
