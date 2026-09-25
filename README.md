@@ -282,6 +282,7 @@ My goal is to transform ideas into useful, practical, and deployable software wh
     alt="Claude, Gemini, ChatGPT, Codex, Cursor, GitHub Copilot and DeepSeek"
   />
 </p>
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
