@@ -423,68 +423,12 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 <!--                         FEATURED PROJECTS                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"
-  width="100%"
-/>
+## 🚀 Featured Projects
 
-<h2 align="left">
+<p align="center"><a href="https://github.com/sangsaptak0704/KriyaSense"><img src="https://img.shields.io/badge/KriyaSense-Offline%20AI%20Assistant-7AA2F7?style=for-the-badge&logo=javascript&logoColor=white" alt="KriyaSense"></a>&nbsp;&nbsp;<a href="https://github.com/sangsaptak0704/Algorithm-Visualizer"><img src="https://img.shields.io/badge/Algorithm%20Visualizer-Interactive%20DSA-BB9AF7?style=for-the-badge&logo=python&logoColor=white" alt="Algorithm Visualizer"></a></p>
+<p align="center"><a href="https://github.com/sangsaptak0704/OpenMeet"><img src="https://img.shields.io/badge/OpenMeet-Video%20Meeting%20Platform-00B8D9?style=for-the-badge&logo=googlemeet&logoColor=white" alt="OpenMeet"></a>&nbsp;&nbsp;<a href="https://github.com/sangsaptak0704/my-portfolio"><img src="https://img.shields.io/badge/My%20Portfolio-Web%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio"></a></p>
 
-  🚀 &nbsp;<b>Featured Projects</b>
-
-</h2>
-
-<div align="center">
-
-  <a href="https://github.com/sangsaptak0704/KriyaSense">
-
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sangsaptak0704&repo=KriyaSense&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5"
-      alt="KriyaSense"
-    />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://github.com/sangsaptak0704/Algorithm-Visualizer">
-
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sangsaptak0704&repo=Algorithm-Visualizer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5"
-      alt="Algorithm Visualizer"
-    />
-
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <a href="https://github.com/sangsaptak0704/OpenMeet">
-
-    <img
-      src="https://img.shields.io/badge/OpenMeet-Video%20Meeting%20Platform-7AA2F7?style=for-the-badge&logo=googlemeet&logoColor=white"
-      alt="OpenMeet"
-    />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://github.com/sangsaptak0704/my-portfolio">
-
-    <img
-      src="https://img.shields.io/badge/My%20Portfolio-Web%20Portfolio-BB9AF7?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="My Portfolio"
-    />
-
-  </a>
-
-</div>
-
-<br/>
+<p align="center"><sub>Click a project to view its source code and documentation.</sub></p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                           CONNECT WITH ME                               -->
