@@ -347,9 +347,7 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 <!--                         CONTRIBUTION STREAK                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="left">🐍 Contribution Snake</h2>
-
-<p align="center"><img src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=sangsaptak0704&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7AA2F7&fire=FF9E64&currStreakNum=BB9AF7&sideNums=7AA2F7&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=2AC3DE" width="100%" alt="GitHub Contribution Streak"></p>
 
 <br/>
 
