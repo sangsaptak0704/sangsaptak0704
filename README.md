@@ -434,82 +434,9 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 <!--                           CONNECT WITH ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"
-  width="100%"
-/>
+## 👋 Connect With Me
 
-<h2 align="left">
-
-  👋 &nbsp;<b>Connect With Me</b>
-
-</h2>
-
-<div align="center">
-
-  <a href="mailto:sangsaptakdas55@gmail.com">
-
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.linkedin.com/in/sangsaptak-das-5320b42b8/">
-
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.instagram.com/dassangsaptak/">
-
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.facebook.com/sangsaptakdas07">
-
-    <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-    />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://leetcode.com/u/sangsaptakdas55/">
-
-    <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-    />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://github.com/sangsaptak0704">
-
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
-
-  </a>
-
-</div>
-
-<br/>
-
-<br/>
+<p align="center"><a href="mailto:sangsaptakdas55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;<a href="https://www.linkedin.com/in/sangsaptak-das-5320b42b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://www.instagram.com/dassangsaptak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;<a href="https://www.facebook.com/sangsaptakdas07"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;<a href="https://leetcode.com/u/sangsaptakdas55/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>&nbsp;<a href="https://github.com/sangsaptak0704"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                               FOOTER                                    -->
