@@ -311,39 +311,9 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 
 <br/>
 
-<div align="center">
+<p align="center"><img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Top Languages by Repository">&nbsp;&nbsp;<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Top Languages by Commit"></p>
 
-  <img
-    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
-    alt="Repositories Per Language"
-    width="49%"
-  />
-
-  <img
-    src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
-    alt="Most Commit Language"
-    width="49%"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="./profile-summary-card-output/tokyonight/3-stats.svg"
-    alt="GitHub Stats"
-    width="49%"
-  />
-
-  <img
-    src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
-    alt="Productive Time"
-    width="49%"
-  />
-
-</div>
+<p align="center"><img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="GitHub Statistics">&nbsp;&nbsp;<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Productive Time"></p>
 
 <br/>
 
