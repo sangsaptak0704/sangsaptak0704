@@ -379,10 +379,9 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 <!--                         CONTRIBUTION SNAKE                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=85&section=header&text=Contribution%20Snake&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Contribution Snake"></p>
+<h2 align="left">🐍 Contribution Snake</h2>
 
 <p align="center"><img src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"></p>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
