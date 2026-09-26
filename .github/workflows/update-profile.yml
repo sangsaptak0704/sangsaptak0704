@@ -313,24 +313,27 @@ jobs:
           # ACTIVITY GRAPH SVG
           # ---------------------------------------------------------
 
-          svg = svg_start(1000, 360)
+         svg = svg_start(1000, 360)
 
-          svg += '''
-          <text x="40" y="50"
-                fill="#ffffff"
-                font-size="25"
-                font-family="Arial"
-                font-weight="bold">
-                Contribution Activity
-          </text>
+svg += '''
+<rect width="100%" height="100%" rx="18"
+      fill="#1a1b27"/>
 
-          <text x="40" y="76"
-                fill="#94a3b8"
-                font-size="14"
-                font-family="Arial">
-                Monthly contribution activity — last 12 months
-          </text>
-          '''
+<text x="40" y="50"
+      fill="#70a5fd"
+      font-size="25"
+      font-family="Arial"
+      font-weight="normal">
+      Contribution Activity
+</text>
+
+<text x="40" y="76"
+      fill="#38bdae"
+      font-size="14"
+      font-family="Arial">
+      Monthly contribution activity — last 12 months
+</text>
+'''
 
           if monthly_items:
               max_value = max(v for _, v in monthly_items) or 1
