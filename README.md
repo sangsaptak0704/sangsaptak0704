@@ -415,39 +415,7 @@ My goal is to transform ideas into useful, practical, and deployable software wh
 <!--                         CONTRIBUTION SNAKE                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"
-  width="100%"
-/>
-
-<h2 align="left">
-
-  🐍 &nbsp;<b>Contribution Snake</b>
-
-</h2>
-
-<div align="center">
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg"
-    />
-
-  </picture>
-
-</div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/sangsaptak0704/sangsaptak0704/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake"></picture></div>
 
 <br/>
 
